@@ -1,0 +1,14 @@
+img {
+    width: 25vw;
+}
+
+#escena2 {
+    background-image: url("assets/Efecto Mariposa.jpg");
+
+    h1 {
+        color: rgb(206, 232, 255);
+    }
+    a {
+        color:aqua;
+    }
+}
